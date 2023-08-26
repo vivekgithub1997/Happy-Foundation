@@ -4,4 +4,5 @@
 http://localhost:8808/happyngo/swagger-ui.html#/
 #Admin Module flow chart
 
-![happy foundation](https://github.com/vivekgithub1997/Happy-Foundation/assets/61921329/47def107-e48d-4119-8b17-4b233e06afbb)
+
+![Flow Chart NGO](https://github.com/vivekgithub1997/Happy-Foundation/assets/61921329/30e1e9b8-20fb-4c3a-923e-ad2b8b88a019)
