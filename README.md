@@ -2,7 +2,9 @@
 # New Project Started...Happy Foundation(Spring-boot, Hibernate , MYSQL-8, SonarQube, JSP) 
 
 # Swagger URL-: 
-http://localhost:8808/happyngo/swagger-ui.html#/
+http://localhost:8808/happyfoundation/swagger-ui.html#/
+# LocalHost URL-:
+http://localhost:8808/happyfoundation/home
 
 # Admin Module flow chart
 
